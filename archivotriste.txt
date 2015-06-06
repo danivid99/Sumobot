@@ -1,3 +1,23 @@
 BLABLEBLIBLO
+BZZ
+D
+A
+C
+B
+D
+B
+C
+C
+D
+
+
+
+A
+
+
+<<<<<<< HEAD
 sospecho que esto va a petar
 
+=======
+borriquito como tu
+>>>>>>> 01fb3882d84845ad74fec18e42755ecbaeed8bef
